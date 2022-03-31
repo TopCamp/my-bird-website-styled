@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+html {
+  background-color: lightgrey;
+}
+
+body {
+  background-color: grey;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 40px;
+}
+
+a {
+  color: palegreen;
+}
+
+a:hover {
+  color: lightblue;
+}
+
+img {
+  width: 100%;
+}
+
+li, p {
+  line-height: 1.5;
+}
